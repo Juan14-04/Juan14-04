@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan David Machado
+# Hola, soy Juan David Machado
 
 ### Software Engineering Student · Backend & Full Stack Developer
 
@@ -62,48 +62,6 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo **backend, full 
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
-
----
-
-## Proyectos destacados
-
-### Sistema de Seguimiento Estratégico de Fondos de Inversión
-
-Sistema orientado al seguimiento y gestión de información estratégica, diseñado con una arquitectura basada en **microservicios** y tecnologías modernas de backend.
-
-**Stack:** NestJS · PostgreSQL · TypeORM · Docker · Kubernetes
-
-🔗 **Repositorio:** [AÑADIR LINK]
-
----
-
-### NovApp — Gestión de inventario y ventas
-
-Aplicación para la gestión de inventario y ventas de una cadena de tiendas, con backend REST, aplicación móvil, autenticación y control de roles.
-
-**Stack:** NestJS · PostgreSQL · React Native · Cloudinary · Firebase
-
-🔗 **Repositorio:** [AÑADIR LINK]
-
----
-
-### Inventory / Kardex Module
-
-Módulo enfocado en el control de inventario y movimientos de productos, aplicando principios de organización de software y persistencia de información.
-
-**Stack:** [AÑADIR TECNOLOGÍAS]
-
-🔗 **Repositorio:** [AÑADIR LINK]
-
----
-
-## GitHub
-
-Mi perfil refleja principalmente mi evolución como desarrollador: proyectos académicos, experimentos, aplicaciones y soluciones construidas mientras sigo aprendiendo.
-
-**Perfil:** [AÑADIR LINK A TU PERFIL DE GITHUB]
-
-> Prefiero mostrar proyectos reales antes que llenar el perfil con estadísticas o gráficos que no aporten contexto.
 
 ---
 
