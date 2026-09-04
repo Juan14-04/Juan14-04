@@ -74,7 +74,7 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo **backend, full 
   <a href="[LINK_PORTFOLIO]">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:[EMAIL]">
+  <a href="mailto:machadocaicedo2016@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="[LINK_INSTAGRAM_O_X]">
