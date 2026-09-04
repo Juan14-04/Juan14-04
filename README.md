@@ -82,11 +82,3 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo **backend, full 
   </a>
 </p>
 
----
-
-## ⚡ Un poco más
-
-```text
-Code        →  Build → Break → Learn → Improve
-Architecture →  Simple → Scalable → Maintainable
-Mindset      →  Curiosity + Consistency + Engineering
