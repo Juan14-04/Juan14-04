@@ -18,7 +18,8 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo **backend, full 
 
 ## Actualmente
 
-- **Trabajando en:** [AÑADIR PROYECTO O TEMA ACTUAL]
+- **Trabajando en:** Vibenix - https://www.vibenix.tv
+- 
 - **Aprendiendo:** Arquitectura de microservicios, Docker, Kubernetes y buenas prácticas de desarrollo
 - **Interesado en:** Backend, APIs REST, arquitectura de software, DevOps, bases de datos y sistemas distribuidos
 - **Me gusta:** Convertir problemas en soluciones de software simples, escalables y mantenibles
