@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Ingeniería de Software** apasionado por el desarrollo de aplicaciones, la arquitectura de sistemas y las tecnologías backend.
 
@@ -16,17 +16,17 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo **backend, full 
 
 ---
 
-## 🚀 Actualmente
+## Actualmente
 
-- 🔭 **Trabajando en:** [AÑADIR PROYECTO O TEMA ACTUAL]
-- 🌱 **Aprendiendo:** Arquitectura de microservicios, Docker, Kubernetes y buenas prácticas de desarrollo
-- 🧠 **Interesado en:** Backend, APIs REST, arquitectura de software, DevOps, bases de datos y sistemas distribuidos
-- 💡 **Me gusta:** Convertir problemas en soluciones de software simples, escalables y mantenibles
-- 🎯 **Objetivo:** Seguir creciendo como ingeniero de software y participar en proyectos tecnológicos que tengan impacto real
+- **Trabajando en:** [AÑADIR PROYECTO O TEMA ACTUAL]
+- **Aprendiendo:** Arquitectura de microservicios, Docker, Kubernetes y buenas prácticas de desarrollo
+- **Interesado en:** Backend, APIs REST, arquitectura de software, DevOps, bases de datos y sistemas distribuidos
+- **Me gusta:** Convertir problemas en soluciones de software simples, escalables y mantenibles
+- **Objetivo:** Seguir creciendo como ingeniero de software y participar en proyectos tecnológicos que tengan impacto real
 
 ---
 
-## 🛠️ Tecnologías & herramientas
+## Tecnologías & herramientas
 
 ### Backend
 
@@ -65,9 +65,9 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo **backend, full 
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
-### 🏦 Sistema de Seguimiento Estratégico de Fondos de Inversión
+### Sistema de Seguimiento Estratégico de Fondos de Inversión
 
 Sistema orientado al seguimiento y gestión de información estratégica, diseñado con una arquitectura basada en **microservicios** y tecnologías modernas de backend.
 
@@ -77,7 +77,7 @@ Sistema orientado al seguimiento y gestión de información estratégica, diseñ
 
 ---
 
-### 🛍️ NovApp — Gestión de inventario y ventas
+### NovApp — Gestión de inventario y ventas
 
 Aplicación para la gestión de inventario y ventas de una cadena de tiendas, con backend REST, aplicación móvil, autenticación y control de roles.
 
@@ -87,7 +87,7 @@ Aplicación para la gestión de inventario y ventas de una cadena de tiendas, co
 
 ---
 
-### 📦 Inventory / Kardex Module
+### Inventory / Kardex Module
 
 Módulo enfocado en el control de inventario y movimientos de productos, aplicando principios de organización de software y persistencia de información.
 
@@ -97,7 +97,7 @@ Módulo enfocado en el control de inventario y movimientos de productos, aplican
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 Mi perfil refleja principalmente mi evolución como desarrollador: proyectos académicos, experimentos, aplicaciones y soluciones construidas mientras sigo aprendiendo.
 
@@ -107,7 +107,7 @@ Mi perfil refleja principalmente mi evolución como desarrollador: proyectos aca
 
 ---
 
-## 🌐 Conecta conmigo
+## Conecta conmigo
 
 <p>
   <a href="[LINK_LINKEDIN]">
